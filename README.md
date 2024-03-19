@@ -1,15 +1,15 @@
 # Product-Sales-Analysis 
 
-An analysis of product sales data from Pens and Printers (an imaginary statinary company) in the previous 6 weeks. 
+An analysis of product sales data from Pens and Printers (an imaginary stationary company) in the previous 6 weeks. 
 
 ------------------------------------------
 
 ### About Pens & Printers 
-Pens and Printers was founded in 1984 and provides high quality office products to large
+Pens and Printers was founded in 1984 and provides high-quality office products to large
 organizations. We are a trusted provider of everything from pens and notebooks to desk
 chairs and monitors. We don’t produce our own products but sell those made by other
 companies.
-We have built long lasting relationships with our customers and they trust us to provide them
+We have built long-lasting relationships with our customers and they trust us to provide them
 with the best products for them. As the way in which consumers buy products is changing,
 our sales tactics have to change too. Launching a new product line is expensive and we need
 to make sure we are using the best techniques to sell the new product effectively. The best
